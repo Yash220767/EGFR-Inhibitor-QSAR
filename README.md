@@ -22,7 +22,4 @@ The goal of this research is to identify key molecular descriptors that drive EG
 - Pandas, Matplotlib
 
 ## Status
-Work in progress — updated regularly 
-
-## Note
-Raw dataset not included in this repository. Source data available via the [ChEMBL database](https://www.ebi.ac.uk/chembl/).
+Work in progress 
