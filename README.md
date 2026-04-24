@@ -13,7 +13,7 @@ The goal of this research is to identify key molecular descriptors that drive EG
 1. Data curation and preprocessing from ChEMBL
 2. Molecular descriptor and calculation using RDKit
 3. Feature selection and scaffold split
-4. Model building — Random Forest and SVM classifiers
+4. Model building : Random Forest and SVM classifiers
 5. Model validation and performance evaluation
 
 ## Tools & Libraries
